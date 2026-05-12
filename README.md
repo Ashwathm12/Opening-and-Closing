@@ -1,4 +1,7 @@
-# OPENING--AND-CLOSING
+# Exp 10 - OPENING--AND-CLOSING
+## Name: Ashwath M
+## Register number: 212223230023
+
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
